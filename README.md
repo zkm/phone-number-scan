@@ -1,5 +1,13 @@
 # Phone Number Scan
 
+[![CI](https://github.com/zkm/phone-number-scan/actions/workflows/ci.yml/badge.svg)](https://github.com/zkm/phone-number-scan/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
+![Python 3.10–3.12](https://img.shields.io/badge/Python-3.10%E2%80%933.12-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-5A5A5A)
+![phonenumbers](https://img.shields.io/badge/phonenumbers-5A5A5A)
+
 A small utility to scan a directory for vanity phone numbers (like 1-866-GET-HELP)
 and convert them to their numeric equivalents. The script is generic and CLI-driven
 so it can be used in different projects and published as a public repository.
